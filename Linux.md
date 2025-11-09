@@ -58,4 +58,5 @@
 | `sha256sum <filename>`              | Compute SHA-256 hash of a file |                                          
 | `sha1sum <filename>`                | Compute SHA-1 hash of a file   |                                          
 | `md5sum <filename>`                 | Compute MD5 hash of a file     |                                          
-| `echo "<expected_hash>  <filename>" or sha256sum -c - ` |  Verify file against a known SHA-256 hash | 
+
+`echo "<expected_hash>  <filename>" | sha256sum -c - ` ==>  Verify file against a known SHA-256 hash
