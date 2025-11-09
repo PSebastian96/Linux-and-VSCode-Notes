@@ -1,3 +1,3 @@
-# Linux and VSCode shortcuts
+# Linux, VSCode and Git shortcuts
 
 # Curated shortcuts for coding productivity.
