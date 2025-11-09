@@ -60,3 +60,17 @@
 | `md5sum <filename>`                 | Compute MD5 hash of a file     |                                          
 
 `echo "<expected_hash>  <filename>" | sha256sum -c - ` ==>  Verify file against a known SHA-256 hash
+
+
+### 5. Chromium:
+
+| Shortcut             | Action                      |
+| -------------------- | --------------------------- |
+| `Ctrl + T`           | Open new tab                |
+| `Ctrl + W`           | Close tab                   |
+| `Ctrl + Shift + T`   | Reopen last closed tab      |
+| `Ctrl + Tab`         | Switch to next tab          |
+| `Ctrl + Shift + Tab` | Switch to previous tab      |
+| `Ctrl + L`           | Focus address bar           |
+| `Ctrl + R`           | Refresh page                |
+| `Ctrl + Shift + R`   | Hard refresh (ignore cache) |
